@@ -1,4 +1,5 @@
 # IginerieSoftware
-Versiunea 0.2.1
-Numarul 0.2.1 indica faptul ca aceasta este o versiune care contine unul sau mai multe bug-fixes aceasta din trebuie sa fie compatibile cu toate versiunile anterioare 0.x.x
+Versiunea 1.0.0
+Numarul 1.0.0 indica faptul ca aceasta este a doua versiune de software 1.x.x . Aceasta nu garanteaza o compatibilitate 100% cu versiunile anterioare deoarece sunt cazuri in care se adauga modificari radicale de structura software astfel incat garantarea compatibilitatii nu poate fi 100%
+ 
 
